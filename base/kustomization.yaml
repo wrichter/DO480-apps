@@ -6,3 +6,4 @@ resources:
 - route.yaml  
 - service-frontend.yaml  
 - service.yaml
+
